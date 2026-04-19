@@ -1,0 +1,9 @@
+{
+	"name": "df-azure-project-ts",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7a39c17f-f441-4c67-845c-91664bfa04bd",
+		"tenantId": "9953aa85-37e2-46a6-8db8-ce428b94f1c9"
+	}
+}
