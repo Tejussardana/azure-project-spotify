@@ -326,9 +326,7 @@
 						"activity": "For_Each_dataset",
 						"dependencyConditions": [
 							"Succeeded",
-							"Completed",
-							"Failed",
-							"Skipped"
+							"Failed"
 						]
 					}
 				],
